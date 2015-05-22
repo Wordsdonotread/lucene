@@ -22,7 +22,7 @@ public class QueryTest {
 	 */
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) throws IOException,ParseException {
-		System.out.println("test");
+		 System.out.println("test add");
          String index="D:\\lucene\\temp\\index";
          File file=new File(index);
          if(file!=null){
